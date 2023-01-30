@@ -1,0 +1,82 @@
+body{
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+h1{
+  line-height: 2;
+  color: #66BFBF;
+  font-size: 5.625rem;
+ margin-top: 0;
+ font-family: 'Sacramento', cursive;
+}
+h2{
+  color: #66BFBF;
+  font-size: 2.5rem;
+  font-weight: normal;
+  font-family: 'Montserrat', sans-serif;
+  padding-bottom: 10px;
+
+}
+h3{
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+.intro{
+  width: 30%;
+  margin: auto;
+}
+hr{
+  border: dotted #eaf6f6 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+.top-container{
+  background-color: #e4f9f5;
+  position: relative;
+  padding-top: 100px;
+}
+.contact_me{
+  margin: auto;
+ width: 40%;
+}
+.middle-container{
+  margin: 100px 0;
+  
+}
+.bottom-container{
+  
+
+}
+p{
+  line-height: 2;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  
+}
+.bottom-cloud{
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+}
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 40px;
+}
+.computer-image
+{
+  width: 25%;
+  float: left;
+ margin-right:30px;
+}
+.chillies-image{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
